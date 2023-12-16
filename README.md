@@ -23,6 +23,6 @@ I'll show you another me👇🏻👇🏻<br><br>
   
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhj94&show_icons=true&theme=dark)
+![HyeokJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhj94&count_private=true&show_icons=true&theme=dark)
 </div>
 
