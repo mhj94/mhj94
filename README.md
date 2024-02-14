@@ -20,5 +20,5 @@ I'll show you another me👇🏻👇🏻<br><br>
   
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhj94&theme=discord_old_blurple&icons=true&include_all_commits=true&count_private=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhj94&theme=discord_old_blurple&icons=true&include_all_commits=true) 
 </div>
