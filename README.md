@@ -33,12 +33,16 @@ I'll show you another me👇🏻👇🏻<br><br>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white">
 
 </span>
+</br></br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mhj94&theme=iceberg&hide_border=true&border_radius=2&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) 
+----
 
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=mhj94&show_icons=true&theme=discord_old_blurple" />
+    </a>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=mhj94&hide_border=true&theme=iceberg" alt="" />
+    </a>
 </div>
 
-  
-#
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhj94&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
