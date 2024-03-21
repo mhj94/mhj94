@@ -8,9 +8,9 @@ I'll show you another me👇🏻👇🏻<br><br>
 <a href="https://www.notion.so/munhyeokjun/Back-End-Developer-bb08dbe1b2194ebab36a28dd1145ab20?pvs=4"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"></a>
 <a href="https://velog.io/@mumum"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=Velog&logoColor=#20C997"></a>
  
-<br>
-  
-#
+</br></br>
+
+----
 
 
 <p>Skills</p>
@@ -38,11 +38,8 @@ I'll show you another me👇🏻👇🏻<br><br>
 ----
 
 <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=mhj94&show_icons=true&theme=discord_old_blurple" />
-    </a>
     <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=mhj94&hide_border=true&theme=iceberg" alt="" />
+      <img align="center" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=mhj94&hide_border=true&theme=iceberg" alt="" />
     </a>
 </div>
 
