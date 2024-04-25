@@ -5,7 +5,7 @@
 <div align="center">
 Hi there👋🏻<br>
 I'll show you another me👇🏻👇🏻<br><br>
-<a href="https://www.notion.so/munhyeokjun/Back-End-Developer-bb08dbe1b2194ebab36a28dd1145ab20?pvs=4"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"></a>
+<a href="https://munhyeokjun.notion.site/c9a81bca89fa4ec29f3b2c73be7e2ff1?pvs=4"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"></a>  
 <a href="https://velog.io/@mumum"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=Velog&logoColor=#20C997"></a>
  
 </br></br>
