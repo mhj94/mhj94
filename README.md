@@ -1,8 +1,4 @@
 <div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmhj94%2Fhit-counter&count_bg=%23000000&title_bg=%238C8C8C&icon=&icon_color=%23943838&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-<div align="center">
 Hi there👋🏻<br>
 I'll show you another me👇🏻👇🏻<br><br>
 <a href="https://munhyeokjun.notion.site/c9a81bca89fa4ec29f3b2c73be7e2ff1?pvs=4"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"></a>  
